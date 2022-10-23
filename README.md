@@ -60,6 +60,12 @@ https://youtu.be/99tJGX5PIUw
 
 <br><br><br><br><br>
 
+<p align="center">
+ <img src="https://i.imgur.com/u3rx7Y1.jpg">
+ </p>
+ 
+ Thanks Imgur!
+
 # Extra Notes
 
 # Vortex
