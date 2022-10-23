@@ -24,6 +24,12 @@
 - 鉗子
 - 磁鐵
 
+## Battery Array, Can be Scaled. 
+
+#### This video shows the principles clearly.  
+
+https://www.youtube.com/watch?v=BPUKbcWt1uY
+
 ## How to make a Salt Water Light. 2 Minute Video.  
  
 https://youtu.be/99tJGX5PIUw 
