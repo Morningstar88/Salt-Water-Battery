@@ -57,7 +57,11 @@ https://youtu.be/99tJGX5PIUw
 
 (How do Batteries Work?)[https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work]
 
-
+<p align="center">
+<img src="https://i.imgur.com/D0c3yBi.png">
+</p>
+ 
+ 
 <br><br><br><br><br>
 
 <p align="center">
