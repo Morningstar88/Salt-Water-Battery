@@ -52,6 +52,10 @@ https://www.youtube.com/watch?v=BPUKbcWt1uY
 
 # Extra Notes
 
+# Vortex
+
+https://www.youtube.com/watch?v=Jlt7RfXBWlU
+
 ## How to Open an Old Battery 
 
 ### Mad Russian Scientist Opens Battery. 2 Minutes. 
