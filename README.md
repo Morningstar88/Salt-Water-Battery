@@ -24,7 +24,7 @@
 - 鉗子
 - 磁鐵
 
-# Mobile Phone battery Charger
+# Mobile Phone Battery Charger
 
 Shows how to take apart a battery. One Graphite rod and Zinc plate inside.   
 
@@ -32,9 +32,9 @@ https://www.youtube.com/watch?v=VM1LWwMQdRM
 
 ## Battery Array, Can be Scaled. 
 
-The wires can be twisted together, you don't need to solder.
-
 #### This video shows the principles clearly.  
+
+The wires can be twisted together, you don't need to solder.
 
 https://www.youtube.com/watch?v=BPUKbcWt1uY
 
