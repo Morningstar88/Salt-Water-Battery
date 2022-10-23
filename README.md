@@ -24,13 +24,13 @@
 - 鉗子
 - 磁鐵
 
-# Mobile Phone Battery Charger
+# ONE: Mobile Phone Battery Charger
 
 Shows how to take apart a battery. One Graphite rod and Zinc plate inside.   
 
 https://www.youtube.com/watch?v=VM1LWwMQdRM
 
-## Battery Array, Can be Scaled. 
+## TWO: Battery Array, Can be Scaled. 
 
 #### This video shows the principles clearly.  
 
@@ -38,15 +38,15 @@ The wires can be twisted together, you don't need to solder.
 
 https://www.youtube.com/watch?v=BPUKbcWt1uY
 
-## How to make a Salt Water Light. 2 Minute Video.  
+## THREE: How to make a Salt Water Light. 2 Minute Video.  
  
 https://youtu.be/99tJGX5PIUw 
  
 - Salt, Water, Plastic Bottles, Magnet. 
  
-## Battery Array 
+## THEORY: 
 
-https://www.youtube.com/watch?v=BPUKbcWt1uY
+(How do batteries Work)[https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work]
 
 
 
