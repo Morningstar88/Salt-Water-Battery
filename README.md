@@ -30,7 +30,9 @@ https://youtu.be/99tJGX5PIUw
  
 - Salt, Water, Plastic Bottles, Magnet. 
  
- 
+## Battery Array 
+
+https://www.youtube.com/watch?v=BPUKbcWt1uY
 
 
 
