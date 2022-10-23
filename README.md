@@ -1,4 +1,4 @@
-# Salt-Water-Battery # Yánshuǐ diànchí
+<h1 align="center"># Salt-Water-Battery # Yánshuǐ diànchí</h1>
 
 ## You will need 
 
@@ -55,7 +55,7 @@ https://youtu.be/99tJGX5PIUw
 
 ## THEORY: 
 
-(How do Batteries Work?)[https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work]
+[How do Batteries Work?](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
 
 <p align="center">
 <img src="https://i.imgur.com/D0c3yBi.png">
