@@ -26,15 +26,17 @@
 
 # Mobile Phone battery Charger
 
+Shows how to take apart a battery. One Graphite rod and Zinc plate inside.   
+
 https://www.youtube.com/watch?v=VM1LWwMQdRM
-
-#### This video shows the principles clearly.  
-
-https://www.youtube.com/watch?v=BPUKbcWt1uY
 
 ## Battery Array, Can be Scaled. 
 
 The wires can be twisted together, you don't need to solder.
+
+#### This video shows the principles clearly.  
+
+https://www.youtube.com/watch?v=BPUKbcWt1uY
 
 ## How to make a Salt Water Light. 2 Minute Video.  
  
