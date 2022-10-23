@@ -24,13 +24,17 @@
 - 鉗子
 - 磁鐵
 
-## Battery Array, Can be Scaled. 
+# Mobile Phone battery Charger
 
-The wires can be twisted together, you don't need to solder.
+https://www.youtube.com/watch?v=VM1LWwMQdRM
 
 #### This video shows the principles clearly.  
 
 https://www.youtube.com/watch?v=BPUKbcWt1uY
+
+## Battery Array, Can be Scaled. 
+
+The wires can be twisted together, you don't need to solder.
 
 ## How to make a Salt Water Light. 2 Minute Video.  
  
