@@ -81,6 +81,11 @@ https://youtu.be/99tJGX5PIUw
 <img src="https://i.imgur.com/D0c3yBi.png">
 </p>
  
+##  Lemon Battery
+
+A battery can be made using a piece of fruit or a vegetable such as a lemon or a potato to provide the electrolyte. 
+The juice inside is conductive so when two pieces of metal, such as a copper penny and a zinc nail, are pushed into the fruit, an electric current is produced. This can be used to power a small electronic device with a low power requirement, such as a digital display.
+ 
 ## Anodes and Cathodes
 
 # [Common Materials Used For Anodes and Cathodes](https://www.google.com/search?q=common+materiqals+used+for+anodea+and+cathode+diy+battery&newwindow=1&sxsrf=ALiCzsZwg2JSenU0aJdcLylm1GZnVX_7HA%3A1666635781923&source=hp&ei=BdhWY_zSNYiSoASqt77IBg&iflsig=AJiK0e8AAAAAY1bmFU70cYME_4hYxLrGX5GFH-6D6UC5&ved=0ahUKEwi86f6Nvvn6AhUICYgKHaqbD2kQ4dUDCAg&uact=5&oq=common+materiqals+used+for+anodea+and+cathode+diy+battery&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEKABEAoyBwghEKABEAo6BAgjECc6CwguEIAEEMcBENEDOgUIABCABDoOCC4QgAQQxwEQ0QMQ1AI6BQgAEJECOggILhCABBDUAjoFCC4QgAQ6CwguEIAEEMcBEK8BOgcIABCABBANOgYIABAeEA06BggAEBYQHjoFCAAQhgM6CAghEBYQHhAdOgoIIRAWEB4QDxAdOgoIIRAWEB4QChAdOgYIIRAKEBU6BAghEBU6BAghEApQAFjyTGDsUWgAcAB4AIAB1gGIAe4mkgEHNDUuMTEuMZgBAKABAQ&sclient=gws-wiz)
