@@ -58,6 +58,11 @@ https://youtu.be/99tJGX5PIUw
 
 # [Aluminum Can Battery](https://www.youtube.com/watch?v=0F8cE4N42NQ)
 
+# Lemon Battery, 3 Minite Primer
+
+https://www.youtube.com/watch?v=GhbuhT1GDpI
+
+https://www.youtube.com/watch?v=GhbuhT1GDpI
 <br><br><br><br><br>
 
 # 💜 THEORY: 
