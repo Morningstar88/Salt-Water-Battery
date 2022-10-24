@@ -71,6 +71,8 @@ https://youtu.be/99tJGX5PIUw
 
 ## Voltaic Cells
 
+
+- Copper is an anode. An element that gains electrons are used as anode, and those lose electrons used as cathode
 - Some metals lose electrons more readily than other metals. 
 - This can be exploited to produce a flow of electrons from one piece of metal to another.
 - Submerge two pieces of different metals in a conductive solution, such as a solution of metal salts. 
