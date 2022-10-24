@@ -15,6 +15,9 @@
 # [How to make a Coin Battery](https://www.youtube.com/watch?v=vIHfUJu3aKo)
 
 # [3 Penny Battery](https://www.youtube.com/watch?v=rIdPfDHeROI)
+
+# [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
+
 <br>
 
 ## You will need 
