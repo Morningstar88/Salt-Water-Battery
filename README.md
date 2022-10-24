@@ -32,7 +32,7 @@
 - 鉗子
 - 磁鐵
 
-# 💚 Mobile Phone Battery Charger
+# Mobile Phone Battery Charger
 
 Shows how to take apart a battery. One Graphite rod and Zinc plate inside.   
 
@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=VM1LWwMQdRM
 <br><br><br><br><br>
 
 
-# 💚 Battery Array, Can be Scaled. 
+# Battery Array, Can be Scaled. 
 
 #### This video shows the principles clearly.  
 
@@ -51,13 +51,13 @@ https://www.youtube.com/watch?v=BPUKbcWt1uY
 
 <br><br><br><br><br>
 
-# 💚 How to make a Salt Water Light. 2 Minute Video.  
+# How to make a Salt Water Light. 2 Minute Video.  
  
 https://youtu.be/99tJGX5PIUw 
  
 - Salt, Water, Plastic Bottles, Magnet. 
 
-
+# [Aluminum Can Battery](https://www.youtube.com/watch?v=0F8cE4N42NQ)
 
 <br><br><br><br><br>
 
@@ -66,6 +66,7 @@ https://youtu.be/99tJGX5PIUw
 # [How Do Batteries Work, TedEd](https://www.youtube.com/watch?v=9OVtk6G2TnQ)
 
 # [How do Batteries Work? Yandex Search](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
+
 
 <p align="center">
 <img src="https://i.imgur.com/D0c3yBi.png">
