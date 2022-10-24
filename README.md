@@ -96,6 +96,17 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 
 # [How do Batteries Work? Yandex Search](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
 
+# Cathodes, Anodes, Electrolytes
+
+- Cells are comprised of 3 essential components.
+
+- The Anode is the negative or reducing electrode that releases electrons to the external circuit and oxidizes during and electrochemical reaction.
+
+- The Cathode is the positive or oxidizing electrode that acquires electrons from the external circuit and is reduced during the electrochemical reaction.
+
+The Electrolyte is the medium that provides the ion transport mechanism between the cathode and anode of a cell. Electrolytes are often thought of as liquids, such as water or other solvents, with dissolved salts, acids, or alkalis that are required for ionic conduction. It should however be noted that many batteries including the conventional (AA/AAA/D) batteries contain solid electrolytes that act as ionic conductors at room temperature
+
+
 ## Voltaic Cells
 
 - Current flows out of the cathode. A useful mnemonic for remembering this is CCD: Cathode Current Departs.
