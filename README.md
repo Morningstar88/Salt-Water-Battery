@@ -14,6 +14,7 @@
 
 # [How to make a Coin Battery](https://www.youtube.com/watch?v=vIHfUJu3aKo)
 
+# [3 Penny Battery](https://www.youtube.com/watch?v=rIdPfDHeROI)
 <br>
 
 ## You will need 
