@@ -40,7 +40,6 @@ https://www.youtube.com/watch?v=VM1LWwMQdRM
 
 <br><br><br><br><br>
 
-
 # Battery Array, Can be Scaled. 
 
 #### This video shows the principles clearly.  
@@ -71,7 +70,7 @@ https://youtu.be/99tJGX5PIUw
 
 ## Voltaic Cells
 
-
+- Current flows out of the cathode. A useful mnemonic for remembering this is CCD: Cathode Current Departs.
 - Copper is an anode. An element that gains electrons are used as anode, and those lose electrons used as cathode
 - Some metals lose electrons more readily than other metals. 
 - This can be exploited to produce a flow of electrons from one piece of metal to another.
