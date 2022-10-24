@@ -10,6 +10,8 @@
 
 # [Coke Can Battery](https://www.youtube.com/watch?v=HKdXtMfoorQ)
 
+# [Penny Voltaic Pile](https://www.youtube.com/watch?v=au7ayZWTfbg)
+
 <br>
 
 ## You will need 
