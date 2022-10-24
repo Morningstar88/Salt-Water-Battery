@@ -8,6 +8,8 @@
 
 # [Charge Phone With Lemon](https://www.youtube.com/watch?v=fA2x3XsciHI)
 
+# [Coke Can Battery](https://www.youtube.com/watch?v=HKdXtMfoorQ)
+
 <br>
 
 ## You will need 
@@ -60,7 +62,7 @@ https://youtu.be/99tJGX5PIUw
 
 # [Aluminum Can Battery](https://www.youtube.com/watch?v=0F8cE4N42NQ)
 
-# Lemon Battery, 3 Minite Primer
+# Lemon Battery, 3 Minute Primer
 
 https://www.youtube.com/watch?v=GhbuhT1GDpI
 
