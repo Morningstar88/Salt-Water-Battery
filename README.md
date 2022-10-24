@@ -69,6 +69,12 @@ https://youtu.be/99tJGX5PIUw
 
 # [How do Batteries Work? Yandex Search](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
 
+## Voltaic Cells
+
+- Some metals lose electrons more readily than other metals. 
+- This can be exploited to produce a flow of electrons from one piece of metal to another.
+- Submerge two pieces of different metals in a conductive solution, such as a solution of metal salts. 
+- Zinc and copper can be used to make a voltaic cell because zinc gives up electrons more readily than copper. The metal plates are called the electrodes: the anode and the cathode.
 
 <p align="center">
 <img src="https://i.imgur.com/D0c3yBi.png">
