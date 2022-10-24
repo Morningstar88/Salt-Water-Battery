@@ -63,7 +63,7 @@ https://youtu.be/99tJGX5PIUw
 
 # 💜 THEORY: 
 
-#[How Do Batteries Work? Basic Article](https://sciencing.com/three-parts-needed-make-battery-8391238.html)
+# [How Do Batteries Work? Basic Article](https://sciencing.com/three-parts-needed-make-battery-8391238.html)
 
 # [How Do Batteries Work, TedEd](https://www.youtube.com/watch?v=9OVtk6G2TnQ)
 
