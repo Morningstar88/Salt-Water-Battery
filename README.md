@@ -62,7 +62,10 @@ https://youtu.be/99tJGX5PIUw
 
 https://www.youtube.com/watch?v=GhbuhT1GDpI
 
-https://www.youtube.com/watch?v=GhbuhT1GDpI
+# Lemon Battery Charger
+
+https://www.youtube.com/watch?v=fA2x3XsciHI
+
 <br><br><br><br><br>
 
 # 💜 THEORY: 
