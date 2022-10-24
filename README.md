@@ -70,6 +70,10 @@ https://www.youtube.com/watch?v=fA2x3XsciHI
 
 https://www.youtube.com/watch?v=0Mux8HScrTA
 
+## Homemade batteries. Coke can battery. Good overbiew of science. 
+
+https://sciphile.org/lessons/survey-homemade-batteries
+
 <br><br><br><br><br>
 
 # 💜 THEORY: 
