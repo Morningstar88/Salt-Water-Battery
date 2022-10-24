@@ -78,6 +78,10 @@ https://www.youtube.com/watch?v=0Mux8HScrTA
 
 https://sciphile.org/lessons/survey-homemade-batteries
 
+## Homemade Voltaic Pile
+
+https://www.youtube.com/watch?v=au7ayZWTfbg
+
 <br><br><br><br><br>
 
 # 💜 THEORY: 
