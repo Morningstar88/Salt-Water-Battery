@@ -12,6 +12,8 @@
 
 # [Penny Voltaic Pile](https://www.youtube.com/watch?v=au7ayZWTfbg)
 
+# [How to make a Coin Battery](https://www.youtube.com/watch?v=vIHfUJu3aKo)
+
 <br>
 
 ## You will need 
