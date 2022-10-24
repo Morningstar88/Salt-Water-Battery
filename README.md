@@ -63,9 +63,9 @@ https://youtu.be/99tJGX5PIUw
 
 # 💜 THEORY: 
 
-[How Do Batteries Work, TedEd](https://www.youtube.com/watch?v=9OVtk6G2TnQ)
+# [How Do Batteries Work, TedEd](https://www.youtube.com/watch?v=9OVtk6G2TnQ)
 
-[How do Batteries Work?](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
+# [How do Batteries Work? Yandex Search](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
 
 <p align="center">
 <img src="https://i.imgur.com/D0c3yBi.png">
