@@ -20,6 +20,8 @@
 
 # [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
+# [How to Make a Giant battery](https://www.youtube.com/watch?v=pdg-vIVCWx4)
+
 <br>
 
 ## You will need 
