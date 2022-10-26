@@ -6,7 +6,11 @@
 
 <h1 align="center"> Salt-Water-Battery 🖤 Yánshuǐ diànchí</h1>
 
-# [Charge Phone With Lemon](https://www.youtube.com/watch?v=fA2x3XsciHI)
+# [How to make an Earth battery (4 min)](https://www.youtube.com/watch?v=aCCK132OIGA)
+
+Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts. Shows larger models. 
+
+# [Charge Phone With Lemon (4 Min)](https://www.youtube.com/watch?v=fA2x3XsciHI)
 
 # [Coke Can Battery](https://www.youtube.com/watch?v=HKdXtMfoorQ)
 
@@ -20,7 +24,6 @@
 
 # [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
-# [How to make an Earth battery](https://www.youtube.com/watch?v=aCCK132OIGA)
 
 <br>
 
