@@ -18,11 +18,11 @@ Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts
 
 ## [How to make a Coin Battery](https://www.youtube.com/watch?v=vIHfUJu3aKo)
 
-# [3 Penny Battery](https://www.youtube.com/watch?v=rIdPfDHeROI)
+## [3 Penny Battery](https://www.youtube.com/watch?v=rIdPfDHeROI)
 
 ## [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
 
-# [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
+## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
 
 <br>
