@@ -26,6 +26,20 @@ Indian genius kid. Goes through various Cathode/Anode designs. Graphite and magn
 
 ## [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
 
+## [Overview of Saltwater Batteries](https://www.youtube.com/watch?v=S-cH5uASxLg)
+
+2:50 
+
+- Made of safe and cheap materials. 
+- Peak power limited by low energy density. 
+- Non flammable. Pose no risk of explosions.
+- Salt water electrolyte.
+
+Drawbacks:
+
+- Peak power limited.
+- Efficiency is 90%
+- Battery salt water electrolyte limited to 2 volts, must be connected in series to provide useful voltage. 
 
 <br>
 
