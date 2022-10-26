@@ -115,6 +115,14 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 
 <br><br><br><br><br>
 
+# Basic Skills
+
+## [Lighting a Bettery with a Cell, 2 minute video.](https://www.youtube.com/watch?v=dnPm2xifcaQ)
+
+## [How to crimp an alligator clip to a wire. 90 seconds](https://youtu.be/HtUQDgUX334)
+
+
+
 # 💜 THEORY: 
 
 # [How Do Batteries Work? Basic Article](https://sciencing.com/three-parts-needed-make-battery-8391238.html)
