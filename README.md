@@ -24,6 +24,7 @@ Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts
 
 ## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
+Indian genius kid. Goes through various Cathode/Anode designs. Graphite and magnesium is the best.. 2 volts. 
 
 <br>
 
