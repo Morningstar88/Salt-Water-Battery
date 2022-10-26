@@ -26,6 +26,13 @@ Indian genius kid. Goes through various Cathode/Anode designs. Graphite and magn
 
 ## [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
 
+## [Saltwater battery Using Screws](https://www.youtube.com/watch?v=eY36k8xSzY0)
+
+- Durable, portalbe design. 
+- Split into compartments, cells. 
+- No cups so can be easily carried and moved. 
+- Uses screws and copper. Solder probably unecessary.   
+
 ## [Overview of Saltwater Batteries](https://www.youtube.com/watch?v=S-cH5uASxLg)
 
 2:50 
