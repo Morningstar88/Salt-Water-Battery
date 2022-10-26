@@ -119,8 +119,9 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 
 ## [Lighting a Bettery with a Cell, 2 minute video.](https://www.youtube.com/watch?v=dnPm2xifcaQ)
 
-## [How to crimp an alligator clip to a wire. 90 seconds](https://youtu.be/HtUQDgUX334)
+## [How to crimp an alligator clip to a wire. 90 seconds.(https://youtu.be/HtUQDgUX334)
 
+Shows the wrong way first. Correct method starts at 50 seconds.]
 
 
 # 💜 THEORY: 
