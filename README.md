@@ -6,21 +6,21 @@
 
 <h1 align="center"> Salt-Water-Battery 🖤 Yánshuǐ diànchí</h1>
 
-# [How to make an Earth battery (4 min)](https://www.youtube.com/watch?v=aCCK132OIGA)
+## [How to make an Earth battery (4 min)](https://www.youtube.com/watch?v=aCCK132OIGA)
 
 Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts. Shows larger models. 
 
-# [Charge Phone With Lemon (4 Min)](https://www.youtube.com/watch?v=fA2x3XsciHI)
+## [Charge Phone With Lemon (4 Min)](https://www.youtube.com/watch?v=fA2x3XsciHI)
 
-# [Coke Can Battery](https://www.youtube.com/watch?v=HKdXtMfoorQ)
+## [Coke Can Battery](https://www.youtube.com/watch?v=HKdXtMfoorQ)
 
-# [Penny Voltaic Pile](https://www.youtube.com/watch?v=au7ayZWTfbg)
+## [Penny Voltaic Pile](https://www.youtube.com/watch?v=au7ayZWTfbg)
 
-# [How to make a Coin Battery](https://www.youtube.com/watch?v=vIHfUJu3aKo)
+## [How to make a Coin Battery](https://www.youtube.com/watch?v=vIHfUJu3aKo)
 
 # [3 Penny Battery](https://www.youtube.com/watch?v=rIdPfDHeROI)
 
-# [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
+## [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
 
 # [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
