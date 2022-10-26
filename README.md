@@ -129,6 +129,8 @@ Can wrap a wire round the screw.
 
 Shows the wrong way first. Correct method starts at 50 seconds.]
 
+### [Homemade Alligator Clips from Clothes Pegs](https://www.youtube.com/watch?v=znl84WjZK4Y) 
+
 
 # 💜 THEORY: 
 
