@@ -10,6 +10,10 @@
 
 Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts. Shows larger models. Dirt dried out in a couple of days and loses charge. Add 1 or 2 teaspoons of water.
 
+## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
+
+Indian genius kid. Goes through various Cathode/Anode designs. Graphite and magnesium is the best.. 2 volts. 
+
 ## [Charge Phone With Lemon (4 Min)](https://www.youtube.com/watch?v=fA2x3XsciHI)
 
 ## [Coke Can Battery](https://www.youtube.com/watch?v=HKdXtMfoorQ)
@@ -22,9 +26,6 @@ Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts
 
 ## [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
 
-## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
-
-Indian genius kid. Goes through various Cathode/Anode designs. Graphite and magnesium is the best.. 2 volts. 
 
 <br>
 
