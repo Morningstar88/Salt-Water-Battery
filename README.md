@@ -117,15 +117,15 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 
 # Basic Skills
 
-## [Lighting a Bettery with a Cell, 2 minute video.](https://www.youtube.com/watch?v=dnPm2xifcaQ)
+### [Lighting a Bettery with a Cell, 2 minute video.](https://www.youtube.com/watch?v=dnPm2xifcaQ)
 
-## [3 Ways to Attach an Alligator Clip to a Wire ](https://www.youtube.com/watch?v=2e6l4UQ-fGk)
+### [3 Ways to Attach an Alligator Clip to a Wire ](https://www.youtube.com/watch?v=2e6l4UQ-fGk)
 
 Fork/screw. Crimping and soldering. 
 
 Can wrap a wire round the screw.  
 
-## [How to crimp an alligator clip to a wire. 90 seconds.(https://youtu.be/HtUQDgUX334)
+### [How to crimp an alligator clip to a wire. 90 seconds](https://youtu.be/HtUQDgUX334)
 
 Shows the wrong way first. Correct method starts at 50 seconds.]
 
