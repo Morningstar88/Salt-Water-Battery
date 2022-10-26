@@ -107,6 +107,28 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 
 # [How Do Batteries Work, TedEd](https://www.youtube.com/watch?v=9OVtk6G2TnQ)
 
+- Battery technology started in 1780s with Galvani and Alessandro Volta. 
+
+** Volta's first experient:** 
+
+Alternating layers of zinc and copper, separated by paper cloth in a salt water solution. 
+
+** Oxidation and Reduction**
+
+- Zinc oxidizes, loses electrons, which are gained by the ions in the water. 
+
+- This process is called reduction, and produces hydrogen gas. 
+
+- Oxidation-Reduction cycle creates a flow of electrons between two substances.  
+ 
+- Hook a vaccuum or light bulb up between the two, you'll give it power. 
+
+- A metal oxidizes, sending electrons to do some work, before they are regained by a substance being reduced.
+
+- A battery has a finite supply of metal. Once most of it has oxidised, the battery dies. 
+
+
+
 # [How do Batteries Work? Yandex Search](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
 
 # Cathodes, Anodes, Electrolytes
