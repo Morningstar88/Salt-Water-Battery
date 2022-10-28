@@ -147,6 +147,30 @@ Shows the wrong way first. Correct method starts at 50 seconds.]
 
 # 💜 THEORY: 
 
+### How do batteries work?
+
+#### Yashas V Rao
+ · 
+When two dissimilar metals or metallic compounds are immersed in an electrolyte, there will be a potential difference produced between these metals or metallic compounds. 
+
+It is found that, when some specific compounds are added to water, they get dissolved and produce negative and positive ions. This type of compound is called an electrolyte. 
+
+The popular examples of electrolytes are almost all kinds of salts, acids, and bases etc. 
+
+The energy released during accepting an electron by a neutral atom is known as electron affinity. 
+
+As the atomic structure for different materials are different, the electron affinity of different materials will differ. If two different kinds of metals or metallic compounds are immersed in the same electrolyte solution, one of them will gain electrons and the other will release electrons. 
+
+Which metal or metallic compound will gain electrons and which will lose them depends upon the electron affinities of these metals or metallic compounds. 
+
+The metal with low electron affinity will gain electrons from the negative ions of the electrolyte solution.
+
+On the other hand, the metal with high electron affinity will release electrons and these electrons come out into the electrolyte solution and are added to the positive ions of the solution. In this way, one of these metals or compounds gains electrons and another one loses electrons. 
+
+As a result, there will be a difference in electron concentration between these two metals. 
+
+This difference of electron concentration causes an electrical potential difference to develop between the metals. This electrical potential difference or emf can be utilized as a source of voltage in any electronics or electrical circuit. This is a general and basic principle of battery.
+
 # [How Do Batteries Work? Basic Article](https://sciencing.com/three-parts-needed-make-battery-8391238.html)
 
 # [How Do Batteries Work, TedEd](https://www.youtube.com/watch?v=9OVtk6G2TnQ)
