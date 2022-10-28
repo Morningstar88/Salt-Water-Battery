@@ -148,6 +148,10 @@ Shows the wrong way first. Correct method starts at 50 seconds.]
 # 💜 THEORY: 
 
 ### How do batteries work?
+<p align=center">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-2c2cf9f59c49c4b4163d46d5ed8184db-lq">
+                                                                                 
+</p>
 
 #### Yashas V Rao
  · 
