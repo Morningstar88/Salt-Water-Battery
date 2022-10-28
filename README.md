@@ -211,8 +211,15 @@ Alternating layers of zinc and copper, separated by paper cloth in a salt water 
 
 Oxidation: Losing electrons.
 
-# Cathodes, Anodes, Electrolytes
-
+# Cathodes, Anodes, Electrolytes                                                                                  
+                                                                                     
+Graphite( Carbon Material) can ben used as used as Anode. 
+The reason behind the use of Graphite can be explained due to its internal structure.
+                
+<p align="">
+<img src="https://cen.acs.org/content/dam/cen/97/14/09714-feature1-table.jpg">
+</p>
+                                                                                     
 ### The anode is always where oxidation happens 
 ### The cathode is always where reduction happens. (Vowel goes with vowel and consonant goes with consonant).
 
