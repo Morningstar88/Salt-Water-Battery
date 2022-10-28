@@ -151,7 +151,9 @@ Shows the wrong way first. Correct method starts at 50 seconds.]
 
 #### Yashas V Rao
  · 
-When two dissimilar metals or metallic compounds are immersed in an electrolyte, there will be a potential difference produced between these metals or metallic compounds. 
+- When two dissimilar metals or metallic compounds are immersed in an electrolyte, there will be a potential difference produced between these metals or metallic compounds. 
+
+#### Electrolyte
 
 It is found that, when some specific compounds are added to water, they get dissolved and produce negative and positive ions. This type of compound is called an electrolyte. 
 
@@ -169,7 +171,11 @@ On the other hand, the metal with high electron affinity will release electrons 
 
 As a result, there will be a difference in electron concentration between these two metals. 
 
-This difference of electron concentration causes an electrical potential difference to develop between the metals. This electrical potential difference or emf can be utilized as a source of voltage in any electronics or electrical circuit. This is a general and basic principle of battery.
+- This difference of electron concentration causes an electrical potential difference to develop between the metals. 
+
+- This electrical potential difference or emf can be utilized as a source of voltage in any electronics or electrical circuit. 
+
+This is a general and basic principle of battery.
 
 # [How Do Batteries Work? Basic Article](https://sciencing.com/three-parts-needed-make-battery-8391238.html)
 
@@ -199,7 +205,12 @@ Alternating layers of zinc and copper, separated by paper cloth in a salt water 
 
 # [How do Batteries Work? Yandex Search](https://yandex.com/images/search?from=tabbar&text=how%20do%20batteries%20work)
 
+Oxidation: Losing electrons.
+
 # Cathodes, Anodes, Electrolytes
+
+### The anode is always where oxidation happens 
+### The cathode is always where reduction happens. (Vowel goes with vowel and consonant goes with consonant).
 
 What is reduction and oxidation in chemistry?
 
@@ -207,9 +218,9 @@ There are technically a number of different ways by which you can define these p
 
 ### Oxidation can be defined as:-
 
-Addition of Oxygen or an electronegative element.
+- Addition of Oxygen or an electronegative element.
+- Losing of electrons
 Removal of Hydrogen or an electropositive element.
-Losing of electrons
 Increase in the oxidation number
 If any one of these conditions are satisfied, the process is an oxidation process.
 
@@ -229,7 +240,7 @@ ANODE - REDUCING - RELEASE ELECTRONS
 
 CATHODE - OXIDIZES - REDUCED/REDUCTIOL - AQUIRES ELECTRONS
 
-- The Anode is the negative or reducing electrode that releases electrons to the external circuit and oxidizes during and electrochemical reaction.
+- The Anode is the negative or reducing electrode that releases electrons to the external circuit and oxidizes during an electrochemical reaction.
 
 - The Cathode is the positive or oxidizing electrode that acquires electrons from the external circuit and is reduced during the electrochemical reaction.
 
@@ -239,9 +250,9 @@ The species which donates electrons is reductant.
 
 The one which accepts electrons oxidant.
 
-Oxidation: removal of electrons
+### Oxidation: removal of electrons
 
-Reduction: addition of electrons
+### Reduction: addition of electrons
 
 The one which is undergoing oxidation is called reductant.
 
@@ -249,9 +260,10 @@ The one which is undergoing reduction is called oxidant.
 
 ## Voltaic Cells
 
+#### Some metals lose electrons more readily than other metals.
+
 - Current flows out of the cathode. A useful mnemonic for remembering this is CCD: Cathode Current Departs.
 - Copper is an anode. An element that gains electrons are used as anode, and those lose electrons used as cathode
-- Some metals lose electrons more readily than other metals. 
 - This can be exploited to produce a flow of electrons from one piece of metal to another.
 - Submerge two pieces of different metals in a conductive solution, such as a solution of metal salts. 
 - Zinc and copper can be used to make a voltaic cell because zinc gives up electrons more readily than copper. The metal plates are called the electrodes: the anode and the cathode.
