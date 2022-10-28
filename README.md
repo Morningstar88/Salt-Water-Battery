@@ -179,9 +179,11 @@ Alternating layers of zinc and copper, separated by paper cloth in a salt water 
 
 - Cells are comprised of 3 essential components.
 
-ANODE - REDUCE - RELEASE ELECTRONS
+OILRIG is an acronym to help remember, Oxidation Is Losing electrons, Reduction Is Gaining electrons.
 
-CATHODE - OXIDIZES - AQUIRES ELECTRONS
+ANODE - REDUCING - RELEASE ELECTRONS
+
+CATHODE - OXIDIZES - REDUCED/REDUCTIOL - AQUIRES ELECTRONS
 
 - The Anode is the negative or reducing electrode that releases electrons to the external circuit and oxidizes during and electrochemical reaction.
 
