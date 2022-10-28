@@ -177,9 +177,29 @@ Alternating layers of zinc and copper, separated by paper cloth in a salt water 
 
 # Cathodes, Anodes, Electrolytes
 
+What is reduction and oxidation in chemistry?
+
+There are technically a number of different ways by which you can define these processes, I will be explaining most of them.
+
+### Oxidation can be defined as:-
+
+Addition of Oxygen or an electronegative element.
+Removal of Hydrogen or an electropositive element.
+Losing of electrons
+Increase in the oxidation number
+If any one of these conditions are satisfied, the process is an oxidation process.
+
+### Reduction can be defined as:-
+
+Addition of hydrogen or an electropositive element.
+Removal of Oxygen or an electronegative element.
+Gaining of electrons.
+Decrease in oxidation number.
+Normally, we use the definitions which are in bold because both of them technically refer to the above two statements.
+
 - Cells are comprised of 3 essential components.
 
-OILRIG is an acronym to help remember, Oxidation Is Losing electrons, Reduction Is Gaining electrons.
+### OILRIG is an acronym to help remember, Oxidation Is Losing electrons, Reduction Is Gaining electrons.
 
 ANODE - REDUCING - RELEASE ELECTRONS
 
