@@ -12,13 +12,13 @@ Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts
 
 ## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
-Indian genius kid. Goes through various Cathode/Anode designs. Graphite and magnesium is the best.. 2 volts. 
+Indian genius kid. Goes through various Cathode/Anode designs. 
+
+### Graphite and magnesium is the best Anode/Cathode pair.. 2 volts. 
 
 ## [Overview of Earth batteries, 15 minutes](https://www.youtube.com/watch?v=z_IerZ3JBys)
 
 ## [Giant Earth Battery, 175 volts](https://www.youtube.com/watch?v=Ffb78oXeiGI)
-
-
 
 ## [Charge Phone With Lemon (4 Min)](https://www.youtube.com/watch?v=fA2x3XsciHI)
 
