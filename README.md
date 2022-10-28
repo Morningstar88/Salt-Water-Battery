@@ -179,12 +179,27 @@ Alternating layers of zinc and copper, separated by paper cloth in a salt water 
 
 - Cells are comprised of 3 essential components.
 
+ANODE - REDUCE - RELEASE ELECTRONS
+
+CATHODE - OXIDIZES - AQUIRES ELECTRONS
+
 - The Anode is the negative or reducing electrode that releases electrons to the external circuit and oxidizes during and electrochemical reaction.
 
 - The Cathode is the positive or oxidizing electrode that acquires electrons from the external circuit and is reduced during the electrochemical reaction.
 
 The Electrolyte is the medium that provides the ion transport mechanism between the cathode and anode of a cell. Electrolytes are often thought of as liquids, such as water or other solvents, with dissolved salts, acids, or alkalis that are required for ionic conduction. It should however be noted that many batteries including the conventional (AA/AAA/D) batteries contain solid electrolytes that act as ionic conductors at room temperature
 
+The species which donates electrons is reductant.
+
+The one which accepts electrons oxidant.
+
+Oxidation: removal of electrons
+
+Reduction: addition of electrons
+
+The one which is undergoing oxidation is called reductant.
+
+The one which is undergoing reduction is called oxidant.
 
 ## Voltaic Cells
 
