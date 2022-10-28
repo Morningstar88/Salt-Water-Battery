@@ -208,6 +208,18 @@ The juice inside is conductive so when two pieces of metal, such as a copper pen
 
 # [Common Materials Used For Anodes and Cathodes](https://www.google.com/search?q=common+materiqals+used+for+anodea+and+cathode+diy+battery&newwindow=1&sxsrf=ALiCzsZwg2JSenU0aJdcLylm1GZnVX_7HA%3A1666635781923&source=hp&ei=BdhWY_zSNYiSoASqt77IBg&iflsig=AJiK0e8AAAAAY1bmFU70cYME_4hYxLrGX5GFH-6D6UC5&ved=0ahUKEwi86f6Nvvn6AhUICYgKHaqbD2kQ4dUDCAg&uact=5&oq=common+materiqals+used+for+anodea+and+cathode+diy+battery&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEKABEAoyBwghEKABEAo6BAgjECc6CwguEIAEEMcBENEDOgUIABCABDoOCC4QgAQQxwEQ0QMQ1AI6BQgAEJECOggILhCABBDUAjoFCC4QgAQ6CwguEIAEEMcBEK8BOgcIABCABBANOgYIABAeEA06BggAEBYQHjoFCAAQhgM6CAghEBYQHhAdOgoIIRAWEB4QDxAdOgoIIRAWEB4QChAdOgYIIRAKEBU6BAghEBU6BAghEApQAFjyTGDsUWgAcAB4AIAB1gGIAe4mkgEHNDUuMTEuMZgBAKABAQ&sclient=gws-wiz)
 
+## What is the best metal to use for electrolysis of water?
+
+** You can use pretty much any metal for the cathode (the electrode that evolves hydrogen), but the anode is more difficult.** 
+
+You need something that will resist corrosion while remaining electrically conductive. The reason this is difficult is because the anode is generating oxygen, and so the anode environment is strongly oxidizing and fiercely corrosive.
+
+If cost is no object, you can use platinum (or probably gold, or other noble metals). These work because the metals are more stable than their oxides, and so they simply won’t corrode under normal conditions.
+
+Lead will work, particularly if you add sodium sulfate salt to the water to make the water more conductive. The lead will form a layer of PbO2, which is one of the few metal oxides that are conductive. Sulfate in the water will keep the lead oxide from dissolving too quickly. But, it does corrode somewhat, and then you have lead in your water.
+
+A compromise is what are referred to as “Dimensionally Stable Anodes”. These are a titanium base, coated with a very thin layer of “mixed metal oxides”, which are proprietary mixtures but I believe they are mostly RuO2 and/or IrO2. These are also electrically-conductive oxides, but unlike PbO2, they are pretty much insoluble in most solutions. I use these in my laboratory, and they last for years. They are fairly pricey (a 1/2 inch diameter rod 4 feet long cost me $140), but if you want a long-lasting, trouble-free anode, they are worth it.
+
 
 <br><br><br><br><br>
 
