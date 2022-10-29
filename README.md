@@ -118,7 +118,7 @@ https://www.youtube.com/watch?v=fA2x3XsciHI
 
 https://www.youtube.com/watch?v=0Mux8HScrTA
 
-## Homemade batteries. Coke can battery. Good overbiew of science. 
+## Homemade batteries. Coke can battery. Good overview of science. 
 
 https://sciphile.org/lessons/survey-homemade-batteries
 
@@ -137,6 +137,8 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 ### [Multiple ways to get a light bulb to glow with a battery](https://www.youtube.com/watch?v=kU9HkPD1nRw)
 
 Neodymium magnet easy attachment trick at 11:20...
+
+### [Everything you wanted to know about lighting a bulb with a battery and a wire](https://www.youtube.com/watch?v=ZL5xSxZpBG4)
 
 ### [3 Ways to Attach an Alligator Clip to a Wire ](https://www.youtube.com/watch?v=2e6l4UQ-fGk)
 
