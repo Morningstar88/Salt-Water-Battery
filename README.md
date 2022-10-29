@@ -20,6 +20,8 @@ From the comments: This called a Bagdad battery. I have seen it done many ways. 
 
 Uses same wrapped coil spiral design.
 
+https://en.wikipedia.org/wiki/Baghdad_Battery
+
 ## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
 Indian genius kid. Goes through various Cathode/Anode designs. 
