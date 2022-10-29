@@ -136,6 +136,8 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 
 ### [Multiple ways to get a light bulb to glow with a battery](https://www.youtube.com/watch?v=kU9HkPD1nRw)
 
+Neodymium magnet easy attachment trick at 11:20...
+
 ### [3 Ways to Attach an Alligator Clip to a Wire ](https://www.youtube.com/watch?v=2e6l4UQ-fGk)
 
 Fork/screw. Crimping and soldering. 
