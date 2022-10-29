@@ -16,11 +16,15 @@ Uses Copper and Aluminium Faoil as electrodes. Simple wrapped spiral paper desig
 
 From the comments: This called a Bagdad battery. I have seen it done many ways. Usually a iron rod core with copper sheet or wire wrapped around it. Simply place in some acidic fluid like salt water, wine or lemon juice. My favorite example of this experiment is a lemon with a copper coin stuck in one side and a steel nail stuck in near the coin. Simply attach a led or some other low voltage device. copper to positive, steel to negative.
 
+## [How to assemble a Baghdad Battery](https://www.youtube.com/watch?v=dR2EsV4yGf8)
+
+Uses same wrapped coil spiral design.
+
 ## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
 Indian genius kid. Goes through various Cathode/Anode designs. 
 
-### Graphite and magnesium is the best Anode/Cathode pair.. 2 volts. 
+#### Graphite and magnesium is the best Anode/Cathode pair.. 2 volts. 
 
 ## [Overview of Earth batteries, 15 minutes](https://www.youtube.com/watch?v=z_IerZ3JBys)
 
