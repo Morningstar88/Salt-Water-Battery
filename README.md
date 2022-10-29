@@ -132,7 +132,9 @@ https://www.youtube.com/watch?v=au7ayZWTfbg
 
 ### [Lighting a Bettery with a Cell, 2 minute video.](https://www.youtube.com/watch?v=dnPm2xifcaQ)
 
-### [How to get a light bulb to glow with a battery](https://www.youtube.com/watch?v=s6XP6pAHjvM)
+### [How to get a light bulb to glow with a battery. 2 minutes](https://www.youtube.com/watch?v=s6XP6pAHjvM)
+
+### [Multiple ways to get a light bulb to glow with a battery](https://www.youtube.com/watch?v=kU9HkPD1nRw)
 
 ### [3 Ways to Attach an Alligator Clip to a Wire ](https://www.youtube.com/watch?v=2e6l4UQ-fGk)
 
