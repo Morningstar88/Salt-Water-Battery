@@ -12,7 +12,9 @@ Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts
 
 ## [How to make a Salt Water Battery Lamp. 3-4 minutes](https://www.youtube.com/watch?v=5vOuj_feM2s)
 
-Uses Copper and Aluminium Faoil as electrodes. Simple wrapped paper design. Soaked. 
+Uses Copper and Aluminium Faoil as electrodes. Simple wrapped spiral paper design. Soaked. 
+
+From the comments: This called a Bagdad battery. I have seen it done many ways. Usually a iron rod core with copper sheet or wire wrapped around it. Simply place in some acidic fluid like salt water, wine or lemon juice. My favorite example of this experiment is a lemon with a copper coin stuck in one side and a steel nail stuck in near the coin. Simply attach a led or some other low voltage device. copper to positive, steel to negative.
 
 ## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
