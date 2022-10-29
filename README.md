@@ -10,6 +10,10 @@
 
 Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts. Shows larger models. Dirt dried out in a couple of days and loses charge. Add 1 or 2 teaspoons of water.
 
+## [How to make a Salt Water Battery Lamp. 3-4 minutes](https://www.youtube.com/watch?v=5vOuj_feM2s)
+
+Uses Copper and Aluminium Faoil as electrodes. 
+
 ## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
 
 Indian genius kid. Goes through various Cathode/Anode designs. 
@@ -19,6 +23,10 @@ Indian genius kid. Goes through various Cathode/Anode designs.
 ## [Overview of Earth batteries, 15 minutes](https://www.youtube.com/watch?v=z_IerZ3JBys)
 
 ## [Giant Earth Battery, 175 volts](https://www.youtube.com/watch?v=Ffb78oXeiGI)
+
+## [Electrical conductivity with salt water](https://youtu.be/ODbgKXFED5o)
+
+Glows brighter just before 2 minutes. Sparks and noise at 3 minutes. 
 
 ## [Charge Phone With Lemon (4 Min)](https://www.youtube.com/watch?v=fA2x3XsciHI)
 
