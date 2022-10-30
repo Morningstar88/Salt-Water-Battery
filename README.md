@@ -22,7 +22,11 @@ Try citric acid, tomato juice, various fluids.
 
 Easiest to make. Uses vinegar to light an LED.
 
-## [How to make a Salt Water Battery Lamp. 3-4 minutes](https://www.youtube.com/watch?v=5vOuj_feM2s)
+## [One minute Ice Cube Vinegar Battery](https://www.youtube.com/watch?v=Yq7w6wWvgww)
+
+Vinegar and ice cube design to light an LED. 
+
+## [How to make a Salt Water Battery Lamp. `3-4 minutes](https://www.youtube.com/watch?v=5vOuj_feM2s)
 
 Uses Copper and Aluminium Faoil as electrodes. Simple wrapped spiral paper design. Soaked. 
 
