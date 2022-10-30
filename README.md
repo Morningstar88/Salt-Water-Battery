@@ -10,7 +10,7 @@
 
 ## [Best. Powering a radio from a Earth Battery](https://www.youtube.com/watch?v=r0zrDI_1q7o)
 
-## [How to make an Earth battery (4 min)](https://www.youtube.com/watch?v=aCCK132OIGA)
+## [Homemade Battery! - The DIY "Earth Battery" - Powers Clocks/Watches/Calcs/LED Lights. 4 min](https://www.youtube.com/watch?v=aCCK132OIGA)
 
 Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts. Shows larger models. Dirt dried out in a couple of days and loses charge. Add 1 or 2 teaspoons of water.
 
