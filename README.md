@@ -176,6 +176,13 @@ Shows the wrong way first. Correct method starts at 50 seconds.]
 
 ### [Homemade Alligator Clips from Clothes Pegs](https://www.youtube.com/watch?v=znl84WjZK4Y) 
 
+<br><br><br><br>
+
+### Electrolysis Basics
+
+### [Basics of electrolysis][https://www.youtube.com/watch?v=T-OwWOYHhMI])
+
+The bubbles are hydrogen and chlorine. The solution produced is weak lye. 
 
 # 💜 THEORY: 
 
