@@ -28,8 +28,6 @@ Easiest to make. Uses vinegar to light an LED.
 
 Vinegar and ice cube design to light an LED. 
 
-
-
 ## [How to make a Salt Water Battery Lamp. `3-4 minutes](https://www.youtube.com/watch?v=5vOuj_feM2s)
 
 Uses Copper and Aluminium Foil as electrodes. Simple wrapped spiral paper design. Soaked. 
@@ -53,6 +51,8 @@ Copper Anode Outside.
 Aluminium Cathode inside. 
 
 Materials: An aluminum can. A sheet of copper foil of 0.3-0.4mm. Two insulating rubber spacers. An engine of a cd rom 2-3 volts, to be recovered from the inside of a PC. 1 liter of water with 3-4 tablespoons of salt for foods.The duration of rotation of the motor is approximately 7-8 minutes. When the salt water loses energy, it must be filled with fresh water and salt. For the success of this experiment it is necessary to have an engine that has a low power consumption 15-20 mA max and a voltage of 2-3 volts of a motor of a cd rom inside the pc. The use of engines for toys are not suitable for this type of experiment.* The copper foil can't be replaced with other metals.
+
+#### [Dirt Battery. Huge, but only gets 1.5 volts](https://www.youtube.com/watch?v=fuFXCsGzBjc)
 
 #### Graphite and magnesium is the best Anode/Cathode pair.. 2 volts. 
 
