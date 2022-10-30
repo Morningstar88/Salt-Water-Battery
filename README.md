@@ -18,6 +18,9 @@ Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts
 
 Try citric acid, tomato juice, various fluids.
 
+## [Simple Ice Cube Tray BAttery Tutorial. Lights LED. 1:42 seconds. ]
+
+
 ## [How to make a Salt Water Battery Lamp. 3-4 minutes](https://www.youtube.com/watch?v=5vOuj_feM2s)
 
 Uses Copper and Aluminium Faoil as electrodes. Simple wrapped spiral paper design. Soaked. 
