@@ -58,6 +58,8 @@ Glows brighter just before 2 minutes. Sparks and noise at 3 minutes.
 
 ## [Charge Mobile With Salt Water](https://youtu.be/Cp0JpDsCpBM)
 
+## [Graphite pencils as simple electrodes (at 5:30)](https://youtu.be/T-OwWOYHhMI?t=335)
+
 ## [Saltwater battery Using Screws](https://www.youtube.com/watch?v=eY36k8xSzY0)
 
 - Durable, portalbe design. 
