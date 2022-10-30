@@ -60,6 +60,8 @@ Glows brighter just before 2 minutes. Sparks and noise at 3 minutes.
 
 ## [Graphite pencils as simple electrodes (at 5:30)](https://youtu.be/T-OwWOYHhMI?t=335)
 
+## [DIY Electrolysis Designs](https://www.youtube.com/watch?v=d85OX6yEwE0)
+
 ## [Saltwater battery Using Screws](https://www.youtube.com/watch?v=eY36k8xSzY0)
 
 - Durable, portalbe design. 
