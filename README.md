@@ -36,6 +36,8 @@ Materials: An aluminum can. A sheet of copper foil of 0.3-0.4mm. Two insulating 
 
 #### Graphite and magnesium is the best Anode/Cathode pair.. 2 volts. 
 
+Graphite does not oxidize at room temperature. 
+
 ## [Overview of Earth batteries, 15 minutes](https://www.youtube.com/watch?v=z_IerZ3JBys)
 
 ## [Giant Earth Battery, 175 volts](https://www.youtube.com/watch?v=Ffb78oXeiGI)
