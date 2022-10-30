@@ -6,7 +6,7 @@
 
 <h1 align="center"> Salt-Water-Battery 🖤 Yánshuǐ diànchí</h1>
 
-# Ice Cube Tray Designs Seem Most Solid 
+#### *Ice Cube Tray Designs Seem Most Solid*
 
 ## [Best. Powering a radio from a Earth Battery](https://www.youtube.com/watch?v=r0zrDI_1q7o)
 
@@ -18,7 +18,7 @@ Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts
 
 Try citric acid, tomato juice, various fluids.
 
-## [Simple Ice Cube Tray Battery Tutorial. Lights LED. 1:42 seconds. ]
+## [Simple Ice Cube Tray Battery Tutorial. Lights LED. 1:42 seconds](https://www.youtube.com/watch?v=piMv1dlcIzA)
 
 Easiest to make. Uses vinegar to light an LED.
 
