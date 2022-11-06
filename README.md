@@ -8,7 +8,13 @@
 
 # *Salt WAter / Ice Cube Tray Designs Seem Most Solid*
 
-##[Powering a 3-6 Volt DC motor w/Salt Water Battery](https://www.youtube.com/watch?v=_ZkJNNenQWM)
+## [Powering a 3-6 Volt DC motor w/Salt Water Battery](https://www.youtube.com/watch?v=_ZkJNNenQWM)
+
+From the comments: 
+
+You can maybe make it an ultra-battery, by coating the metal with graphene. Might up your voltage a bit.
+
+You said you were going to power it from solar, you might want to try to power them with a wind turbine. Wind has much higher peaks, but in theory salt water should make perfect use of those. You might even get a bit of an advantage over IonLithium then :)
 
 ## [Ice Cube Tray Water Battery](https://www.youtube.com/watch?v=aaMWBhRcqew)
 
