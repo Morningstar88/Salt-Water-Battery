@@ -8,6 +8,8 @@
 
 # *Salt WAter / Ice Cube Tray Designs Seem Most Solid*
 
+##[Powering a 3-6 Volt DC motor w/Salt Water Battery](https://www.youtube.com/watch?v=_ZkJNNenQWM)
+
 ## [Ice Cube Tray Water Battery](https://www.youtube.com/watch?v=aaMWBhRcqew)
 
 Try citric acid, tomato juice, various fluids.
