@@ -26,6 +26,9 @@ Vinegar and ice cube design to light an LED.
 
 Indian genius kid. Goes through various Cathode/Anode designs. 
 
+# [Commercial Salt Water Battery Firms}(https://www.youtube.com/results?search_query=aquinon+energy+salt+battery)
+
+Aquion Energy and Greenrock both sell solar batteries.
 
 ## [Homemade Battery! - The DIY "Earth Battery" - Powers Clocks/Watches/Calcs/LED Lights. 4 min](https://www.youtube.com/watch?v=aCCK132OIGA)
 
