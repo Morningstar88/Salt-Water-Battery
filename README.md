@@ -6,13 +6,7 @@
 
 <h1 align="center"> Salt-Water-Battery 🖤 Yánshuǐ diànchí</h1>
 
-#### *Ice Cube Tray Designs Seem Most Solid*
-
-## [Best. Powering a radio from a Earth Battery](https://www.youtube.com/watch?v=r0zrDI_1q7o)
-
-## [Homemade Battery! - The DIY "Earth Battery" - Powers Clocks/Watches/Calcs/LED Lights. 4 min](https://www.youtube.com/watch?v=aCCK132OIGA)
-
-Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts. Shows larger models. Dirt dried out in a couple of days and loses charge. Add 1 or 2 teaspoons of water.
+# *Salt WAter / Ice Cube Tray Designs Seem Most Solid*
 
 ## [Ice Cube Tray Water Battery](https://www.youtube.com/watch?v=aaMWBhRcqew)
 
@@ -28,6 +22,21 @@ Easiest to make. Uses vinegar to light an LED.
 
 Vinegar and ice cube design to light an LED. 
 
+## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
+
+Indian genius kid. Goes through various Cathode/Anode designs. 
+
+
+## [Homemade Battery! - The DIY "Earth Battery" - Powers Clocks/Watches/Calcs/LED Lights. 4 min](https://www.youtube.com/watch?v=aCCK132OIGA)
+
+Excellent. Ice cube tray design. Screws wrapped with copper wire. Gets 4-5 volts. Shows larger models. Dirt dried out in a couple of days and loses charge. Add 1 or 2 teaspoons of water.
+
+## [Powering a radio from a Earth Battery](https://www.youtube.com/watch?v=r0zrDI_1q7o)
+
+Good explnation. Enthusiastic. But Doesn't last for long...
+
+# Baghdad Batteries
+
 ## [How to make a Salt Water Battery Lamp. `3-4 minutes](https://www.youtube.com/watch?v=5vOuj_feM2s)
 
 Uses Copper and Aluminium Foil as electrodes. Simple wrapped spiral paper design. Soaked. 
@@ -39,10 +48,6 @@ From the comments: This called a Bagdad battery. I have seen it done many ways. 
 Uses same wrapped coil spiral design.
 
 https://en.wikipedia.org/wiki/Baghdad_Battery
-
-## [World's Largest Salt Water Battery](https://www.youtube.com/watch?v=W4YnXKXOPEs)
-
-Indian genius kid. Goes through various Cathode/Anode designs. 
 
 ## [Baghdad Battery. Clearly shows Cathode and Anode](https://www.youtube.com/watch?v=VMdS65_E_X4)
 
@@ -405,4 +410,3 @@ https://www.youtube.com/watch?v=b9LeQfBxHuk
 
 - Take Pliers, peel the Battery top. 
 - You will see the lid underneath.
-
